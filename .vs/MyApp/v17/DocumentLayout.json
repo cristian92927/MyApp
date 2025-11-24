@@ -3,80 +3,16 @@
   "WorkspaceRootPath": "C:\\Desarrollo\\Cristian\\MyApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE3C1F64-EA68-41F9-A101-C28AF6182DB4}|MyApp.Presentation\\MyApp.Presentation.csproj|c:\\desarrollo\\cristian\\myapp\\myapp.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{AE3C1F64-EA68-41F9-A101-C28AF6182DB4}|MyApp.Presentation\\MyApp.Presentation.csproj|solutionrelative:myapp.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE3C1F64-EA68-41F9-A101-C28AF6182DB4}|MyApp.Presentation\\MyApp.Presentation.csproj|c:\\desarrollo\\cristian\\myapp\\myapp.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE3C1F64-EA68-41F9-A101-C28AF6182DB4}|MyApp.Presentation\\MyApp.Presentation.csproj|solutionrelative:myapp.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89D43406-304D-4108-8769-82CA599DD139}|MyApp.Application\\MyApp.Application.csproj|c:\\desarrollo\\cristian\\myapp\\myapp.application\\orders\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89D43406-304D-4108-8769-82CA599DD139}|MyApp.Application\\MyApp.Application.csproj|solutionrelative:myapp.application\\orders\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89D43406-304D-4108-8769-82CA599DD139}|MyApp.Application\\MyApp.Application.csproj|c:\\desarrollo\\cristian\\myapp\\myapp.application\\orders\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89D43406-304D-4108-8769-82CA599DD139}|MyApp.Application\\MyApp.Application.csproj|solutionrelative:myapp.application\\orders\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C72834A2-D24C-4E27-A55D-1B53404ED064}|MyApp.Domain\\MyApp.Domain.csproj|c:\\desarrollo\\cristian\\myapp\\myapp.domain\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C72834A2-D24C-4E27-A55D-1B53404ED064}|MyApp.Domain\\MyApp.Domain.csproj|solutionrelative:myapp.domain\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B5AAB35-9794-4ED0-97A1-AAE6461D2DC0}|MyApp.Infrastructure\\MyApp.Infrastructure.csproj|c:\\desarrollo\\cristian\\myapp\\myapp.infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B5AAB35-9794-4ED0-97A1-AAE6461D2DC0}|MyApp.Infrastructure\\MyApp.Infrastructure.csproj|solutionrelative:myapp.infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE3C1F64-EA68-41F9-A101-C28AF6182DB4}|MyApp.Presentation\\MyApp.Presentation.csproj|c:\\desarrollo\\cristian\\myapp\\myapp.presentation\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE3C1F64-EA68-41F9-A101-C28AF6182DB4}|MyApp.Presentation\\MyApp.Presentation.csproj|solutionrelative:myapp.presentation\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5B5AAB35-9794-4ED0-97A1-AAE6461D2DC0}|MyApp.Infrastructure\\MyApp.Infrastructure.csproj|c:\\desarrollo\\cristian\\myapp\\myapp.infrastructure\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B5AAB35-9794-4ED0-97A1-AAE6461D2DC0}|MyApp.Infrastructure\\MyApp.Infrastructure.csproj|solutionrelative:myapp.infrastructure\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C72834A2-D24C-4E27-A55D-1B53404ED064}|MyApp.Domain\\MyApp.Domain.csproj|c:\\desarrollo\\cristian\\myapp\\myapp.domain\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C72834A2-D24C-4E27-A55D-1B53404ED064}|MyApp.Domain\\MyApp.Domain.csproj|solutionrelative:myapp.domain\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5B5AAB35-9794-4ED0-97A1-AAE6461D2DC0}|MyApp.Infrastructure\\MyApp.Infrastructure.csproj|c:\\desarrollo\\cristian\\myapp\\myapp.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5AAB35-9794-4ED0-97A1-AAE6461D2DC0}|MyApp.Infrastructure\\MyApp.Infrastructure.csproj|solutionrelative:myapp.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{89D43406-304D-4108-8769-82CA599DD139}|MyApp.Application\\MyApp.Application.csproj|c:\\desarrollo\\cristian\\myapp\\myapp.application\\myapp.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{89D43406-304D-4108-8769-82CA599DD139}|MyApp.Application\\MyApp.Application.csproj|solutionrelative:myapp.application\\myapp.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE3C1F64-EA68-41F9-A101-C28AF6182DB4}|MyApp.Presentation\\MyApp.Presentation.csproj|c:\\desarrollo\\cristian\\myapp\\myapp.presentation\\myapp.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{AE3C1F64-EA68-41F9-A101-C28AF6182DB4}|MyApp.Presentation\\MyApp.Presentation.csproj|solutionrelative:myapp.presentation\\myapp.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89D43406-304D-4108-8769-82CA599DD139}|MyApp.Application\\MyApp.Application.csproj|c:\\desarrollo\\cristian\\myapp\\myapp.application\\customers\\queries\\getcustomerbyid\\getcustomerbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89D43406-304D-4108-8769-82CA599DD139}|MyApp.Application\\MyApp.Application.csproj|solutionrelative:myapp.application\\customers\\queries\\getcustomerbyid\\getcustomerbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89D43406-304D-4108-8769-82CA599DD139}|MyApp.Application\\MyApp.Application.csproj|c:\\desarrollo\\cristian\\myapp\\myapp.application\\customers\\queries\\getcustomerbyid\\getcustomerbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89D43406-304D-4108-8769-82CA599DD139}|MyApp.Application\\MyApp.Application.csproj|solutionrelative:myapp.application\\customers\\queries\\getcustomerbyid\\getcustomerbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89D43406-304D-4108-8769-82CA599DD139}|MyApp.Application\\MyApp.Application.csproj|c:\\desarrollo\\cristian\\myapp\\myapp.application\\common\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89D43406-304D-4108-8769-82CA599DD139}|MyApp.Application\\MyApp.Application.csproj|solutionrelative:myapp.application\\common\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89D43406-304D-4108-8769-82CA599DD139}|MyApp.Application\\MyApp.Application.csproj|c:\\desarrollo\\cristian\\myapp\\myapp.application\\orders\\commands\\createorder\\createordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89D43406-304D-4108-8769-82CA599DD139}|MyApp.Application\\MyApp.Application.csproj|solutionrelative:myapp.application\\orders\\commands\\createorder\\createordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89D43406-304D-4108-8769-82CA599DD139}|MyApp.Application\\MyApp.Application.csproj|c:\\desarrollo\\cristian\\myapp\\myapp.application\\orders\\commands\\createorder\\createordercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89D43406-304D-4108-8769-82CA599DD139}|MyApp.Application\\MyApp.Application.csproj|solutionrelative:myapp.application\\orders\\commands\\createorder\\createordercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89D43406-304D-4108-8769-82CA599DD139}|MyApp.Application\\MyApp.Application.csproj|c:\\desarrollo\\cristian\\myapp\\myapp.application\\orders\\commands\\createorder\\createordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89D43406-304D-4108-8769-82CA599DD139}|MyApp.Application\\MyApp.Application.csproj|solutionrelative:myapp.application\\orders\\commands\\createorder\\createordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C72834A2-D24C-4E27-A55D-1B53404ED064}|MyApp.Domain\\MyApp.Domain.csproj|c:\\desarrollo\\cristian\\myapp\\myapp.domain\\myapp.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C72834A2-D24C-4E27-A55D-1B53404ED064}|MyApp.Domain\\MyApp.Domain.csproj|solutionrelative:myapp.domain\\myapp.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89D43406-304D-4108-8769-82CA599DD139}|MyApp.Application\\MyApp.Application.csproj|c:\\desarrollo\\cristian\\myapp\\myapp.application\\customers\\commands\\createcustomer\\createcustomercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89D43406-304D-4108-8769-82CA599DD139}|MyApp.Application\\MyApp.Application.csproj|solutionrelative:myapp.application\\customers\\commands\\createcustomer\\createcustomercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE3C1F64-EA68-41F9-A101-C28AF6182DB4}|MyApp.Presentation\\MyApp.Presentation.csproj|c:\\desarrollo\\cristian\\myapp\\myapp.presentation\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE3C1F64-EA68-41F9-A101-C28AF6182DB4}|MyApp.Presentation\\MyApp.Presentation.csproj|solutionrelative:myapp.presentation\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{89D43406-304D-4108-8769-82CA599DD139}|MyApp.Application\\MyApp.Application.csproj|c:\\desarrollo\\cristian\\myapp\\myapp.application\\customers\\commands\\createcustomer\\createcustomercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -87,44 +23,16 @@
       "RelativeMoniker": "D:0:0:{89D43406-304D-4108-8769-82CA599DD139}|MyApp.Application\\MyApp.Application.csproj|solutionrelative:myapp.application\\customers\\commands\\createcustomer\\createcustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B5AAB35-9794-4ED0-97A1-AAE6461D2DC0}|MyApp.Infrastructure\\MyApp.Infrastructure.csproj|c:\\desarrollo\\cristian\\myapp\\myapp.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B5AAB35-9794-4ED0-97A1-AAE6461D2DC0}|MyApp.Infrastructure\\MyApp.Infrastructure.csproj|solutionrelative:myapp.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{89D43406-304D-4108-8769-82CA599DD139}|MyApp.Application\\MyApp.Application.csproj|c:\\desarrollo\\cristian\\myapp\\myapp.application\\customers\\commands\\createcustomer\\createcustomercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D43406-304D-4108-8769-82CA599DD139}|MyApp.Application\\MyApp.Application.csproj|solutionrelative:myapp.application\\customers\\commands\\createcustomer\\createcustomercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE3C1F64-EA68-41F9-A101-C28AF6182DB4}|MyApp.Presentation\\MyApp.Presentation.csproj|c:\\desarrollo\\cristian\\myapp\\myapp.presentation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{AE3C1F64-EA68-41F9-A101-C28AF6182DB4}|MyApp.Presentation\\MyApp.Presentation.csproj|solutionrelative:myapp.presentation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE3C1F64-EA68-41F9-A101-C28AF6182DB4}|MyApp.Presentation\\MyApp.Presentation.csproj|c:\\desarrollo\\cristian\\myapp\\myapp.presentation\\myapp.presentation.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{AE3C1F64-EA68-41F9-A101-C28AF6182DB4}|MyApp.Presentation\\MyApp.Presentation.csproj|solutionrelative:myapp.presentation\\myapp.presentation.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C72834A2-D24C-4E27-A55D-1B53404ED064}|MyApp.Domain\\MyApp.Domain.csproj|c:\\desarrollo\\cristian\\myapp\\myapp.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C72834A2-D24C-4E27-A55D-1B53404ED064}|MyApp.Domain\\MyApp.Domain.csproj|solutionrelative:myapp.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B5AAB35-9794-4ED0-97A1-AAE6461D2DC0}|MyApp.Infrastructure\\MyApp.Infrastructure.csproj|c:\\desarrollo\\cristian\\myapp\\myapp.infrastructure\\myapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{5B5AAB35-9794-4ED0-97A1-AAE6461D2DC0}|MyApp.Infrastructure\\MyApp.Infrastructure.csproj|solutionrelative:myapp.infrastructure\\myapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{89D43406-304D-4108-8769-82CA599DD139}|MyApp.Application\\MyApp.Application.csproj|c:\\desarrollo\\cristian\\myapp\\myapp.application\\common\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D43406-304D-4108-8769-82CA599DD139}|MyApp.Application\\MyApp.Application.csproj|solutionrelative:myapp.application\\common\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C72834A2-D24C-4E27-A55D-1B53404ED064}|MyApp.Domain\\MyApp.Domain.csproj|c:\\desarrollo\\cristian\\myapp\\myapp.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C72834A2-D24C-4E27-A55D-1B53404ED064}|MyApp.Domain\\MyApp.Domain.csproj|solutionrelative:myapp.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE3C1F64-EA68-41F9-A101-C28AF6182DB4}|MyApp.Presentation\\MyApp.Presentation.csproj|c:\\desarrollo\\cristian\\myapp\\myapp.presentation\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{AE3C1F64-EA68-41F9-A101-C28AF6182DB4}|MyApp.Presentation\\MyApp.Presentation.csproj|solutionrelative:myapp.presentation\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89D43406-304D-4108-8769-82CA599DD139}|MyApp.Application\\MyApp.Application.csproj|c:\\desarrollo\\cristian\\myapp\\myapp.application\\common\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89D43406-304D-4108-8769-82CA599DD139}|MyApp.Application\\MyApp.Application.csproj|solutionrelative:myapp.application\\common\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89D43406-304D-4108-8769-82CA599DD139}|MyApp.Application\\MyApp.Application.csproj|c:\\desarrollo\\cristian\\myapp\\myapp.application\\customers\\queries\\dto\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89D43406-304D-4108-8769-82CA599DD139}|MyApp.Application\\MyApp.Application.csproj|solutionrelative:myapp.application\\customers\\queries\\dto\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89D43406-304D-4108-8769-82CA599DD139}|MyApp.Application\\MyApp.Application.csproj|c:\\desarrollo\\cristian\\myapp\\myapp.application\\customers\\queries\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89D43406-304D-4108-8769-82CA599DD139}|MyApp.Application\\MyApp.Application.csproj|solutionrelative:myapp.application\\customers\\queries\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -134,8 +42,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 18,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Infrastructure\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "MyApp.Infrastructure\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Infrastructure\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "MyApp.Infrastructure\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwB4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T20:15:19.318Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
@@ -150,376 +71,94 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "OrderRepository.cs",
-              "DocumentMoniker": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Infrastructure\\Repositories\\OrderRepository.cs",
-              "RelativeDocumentMoniker": "MyApp.Infrastructure\\Repositories\\OrderRepository.cs",
-              "ToolTip": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Infrastructure\\Repositories\\OrderRepository.cs",
-              "RelativeToolTip": "MyApp.Infrastructure\\Repositories\\OrderRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T23:49:58.273Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IOrderRepository.cs",
-              "DocumentMoniker": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Domain\\Repositories\\IOrderRepository.cs",
-              "RelativeDocumentMoniker": "MyApp.Domain\\Repositories\\IOrderRepository.cs",
-              "ToolTip": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Domain\\Repositories\\IOrderRepository.cs",
-              "RelativeToolTip": "MyApp.Domain\\Repositories\\IOrderRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T23:49:33.782Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CreateOrderCommandHandler.cs",
-              "DocumentMoniker": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Application\\Orders\\Commands\\CreateOrder\\CreateOrderCommandHandler.cs",
-              "RelativeDocumentMoniker": "MyApp.Application\\Orders\\Commands\\CreateOrder\\CreateOrderCommandHandler.cs",
-              "ToolTip": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Application\\Orders\\Commands\\CreateOrder\\CreateOrderCommandHandler.cs",
-              "RelativeToolTip": "MyApp.Application\\Orders\\Commands\\CreateOrder\\CreateOrderCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T01:48:07.981Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "CreateOrderCommandValidator.cs",
-              "DocumentMoniker": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Application\\Orders\\Commands\\CreateOrder\\CreateOrderCommandValidator.cs",
-              "RelativeDocumentMoniker": "MyApp.Application\\Orders\\Commands\\CreateOrder\\CreateOrderCommandValidator.cs",
-              "ToolTip": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Application\\Orders\\Commands\\CreateOrder\\CreateOrderCommandValidator.cs",
-              "RelativeToolTip": "MyApp.Application\\Orders\\Commands\\CreateOrder\\CreateOrderCommandValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T01:47:47.299Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "CreateOrderCommand.cs",
-              "DocumentMoniker": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Application\\Orders\\Commands\\CreateOrder\\CreateOrderCommand.cs",
-              "RelativeDocumentMoniker": "MyApp.Application\\Orders\\Commands\\CreateOrder\\CreateOrderCommand.cs",
-              "ToolTip": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Application\\Orders\\Commands\\CreateOrder\\CreateOrderCommand.cs",
-              "RelativeToolTip": "MyApp.Application\\Orders\\Commands\\CreateOrder\\CreateOrderCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T01:47:18.536Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "OrderService.cs",
-              "DocumentMoniker": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Application\\Orders\\Services\\OrderService.cs",
-              "RelativeDocumentMoniker": "MyApp.Application\\Orders\\Services\\OrderService.cs",
-              "ToolTip": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Application\\Orders\\Services\\OrderService.cs",
-              "RelativeToolTip": "MyApp.Application\\Orders\\Services\\OrderService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T01:46:01.983Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IOrderService.cs",
-              "DocumentMoniker": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Application\\Orders\\Services\\IOrderService.cs",
-              "RelativeDocumentMoniker": "MyApp.Application\\Orders\\Services\\IOrderService.cs",
-              "ToolTip": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Application\\Orders\\Services\\IOrderService.cs",
-              "RelativeToolTip": "MyApp.Application\\Orders\\Services\\IOrderService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T01:45:35.622Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Presentation\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "MyApp.Presentation\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Presentation\\Properties\\launchSettings.json",
-              "RelativeToolTip": "MyApp.Presentation\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-22T01:35:59.876Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "MyApp.Presentation.http",
-              "DocumentMoniker": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Presentation\\MyApp.Presentation.http",
-              "RelativeDocumentMoniker": "MyApp.Presentation\\MyApp.Presentation.http",
-              "ToolTip": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Presentation\\MyApp.Presentation.http",
-              "RelativeToolTip": "MyApp.Presentation\\MyApp.Presentation.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-11-22T01:32:38.6Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ValidationBehavior.cs",
-              "DocumentMoniker": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Application\\Common\\Behaviors\\ValidationBehavior.cs",
-              "RelativeDocumentMoniker": "MyApp.Application\\Common\\Behaviors\\ValidationBehavior.cs",
-              "ToolTip": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Application\\Common\\Behaviors\\ValidationBehavior.cs",
-              "RelativeToolTip": "MyApp.Application\\Common\\Behaviors\\ValidationBehavior.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T01:32:13.665Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MyApp.Application.csproj",
-              "DocumentMoniker": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Application\\MyApp.Application.csproj",
-              "RelativeDocumentMoniker": "MyApp.Application\\MyApp.Application.csproj",
-              "ToolTip": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Application\\MyApp.Application.csproj",
-              "RelativeToolTip": "MyApp.Application\\MyApp.Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-22T01:23:43.822Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "MyApp.Domain.csproj",
-              "DocumentMoniker": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Domain\\MyApp.Domain.csproj",
-              "RelativeDocumentMoniker": "MyApp.Domain\\MyApp.Domain.csproj",
-              "ToolTip": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Domain\\MyApp.Domain.csproj",
-              "RelativeToolTip": "MyApp.Domain\\MyApp.Domain.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-22T01:18:31.246Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MyApp.Presentation.csproj",
-              "DocumentMoniker": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Presentation\\MyApp.Presentation.csproj",
-              "RelativeDocumentMoniker": "MyApp.Presentation\\MyApp.Presentation.csproj",
-              "ToolTip": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Presentation\\MyApp.Presentation.csproj",
-              "RelativeToolTip": "MyApp.Presentation\\MyApp.Presentation.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-22T01:18:06.599Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "MyApp.Infrastructure.csproj",
-              "DocumentMoniker": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Infrastructure\\MyApp.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "MyApp.Infrastructure\\MyApp.Infrastructure.csproj",
-              "ToolTip": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Infrastructure\\MyApp.Infrastructure.csproj",
-              "RelativeToolTip": "MyApp.Infrastructure\\MyApp.Infrastructure.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-22T00:23:18.431Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Presentation\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "MyApp.Presentation\\appsettings.Development.json",
-              "ToolTip": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Presentation\\appsettings.Development.json",
-              "RelativeToolTip": "MyApp.Presentation\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-22T00:05:14.737Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Presentation\\appsettings.json",
-              "RelativeDocumentMoniker": "MyApp.Presentation\\appsettings.json",
-              "ToolTip": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Presentation\\appsettings.json",
-              "RelativeToolTip": "MyApp.Presentation\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-22T00:05:12.363Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CustomersController.cs",
-              "DocumentMoniker": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Presentation\\Controllers\\CustomersController.cs",
-              "RelativeDocumentMoniker": "MyApp.Presentation\\Controllers\\CustomersController.cs",
-              "ToolTip": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Presentation\\Controllers\\CustomersController.cs",
-              "RelativeToolTip": "MyApp.Presentation\\Controllers\\CustomersController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T00:04:47.463Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Presentation\\Program.cs",
-              "RelativeDocumentMoniker": "MyApp.Presentation\\Program.cs",
-              "ToolTip": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Presentation\\Program.cs",
-              "RelativeToolTip": "MyApp.Presentation\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T00:03:40.59Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CustomerRepository.cs",
-              "DocumentMoniker": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Infrastructure\\Repositories\\CustomerRepository.cs",
-              "RelativeDocumentMoniker": "MyApp.Infrastructure\\Repositories\\CustomerRepository.cs",
-              "ToolTip": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Infrastructure\\Repositories\\CustomerRepository.cs",
-              "RelativeToolTip": "MyApp.Infrastructure\\Repositories\\CustomerRepository.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAkwBwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T00:02:52.566Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Infrastructure\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "MyApp.Infrastructure\\Data\\AppDbContext.cs",
               "ToolTip": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Infrastructure\\Data\\AppDbContext.cs",
               "RelativeToolTip": "MyApp.Infrastructure\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwB4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T00:00:57.382Z"
+              "WhenOpened": "2025-11-24T20:33:17.183Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Application\\Common\\Mappings\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "MyApp.Application\\Common\\Mappings\\MappingProfile.cs",
-              "ToolTip": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Application\\Common\\Mappings\\MappingProfile.cs",
-              "RelativeToolTip": "MyApp.Application\\Common\\Mappings\\MappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T00:00:04.324Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "CustomerDto.cs",
-              "DocumentMoniker": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Application\\Customers\\Queries\\Dto\\CustomerDto.cs",
-              "RelativeDocumentMoniker": "MyApp.Application\\Customers\\Queries\\Dto\\CustomerDto.cs",
-              "ToolTip": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Application\\Customers\\Queries\\Dto\\CustomerDto.cs",
-              "RelativeToolTip": "MyApp.Application\\Customers\\Queries\\Dto\\CustomerDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T23:58:14.786Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "OrderDto.cs",
-              "DocumentMoniker": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Application\\Customers\\Queries\\Dto\\OrderDto.cs",
-              "RelativeDocumentMoniker": "MyApp.Application\\Customers\\Queries\\Dto\\OrderDto.cs",
-              "ToolTip": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Application\\Customers\\Queries\\Dto\\OrderDto.cs",
-              "RelativeToolTip": "MyApp.Application\\Customers\\Queries\\Dto\\OrderDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T23:57:58.102Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "GetCustomerByIdHandler.cs",
-              "DocumentMoniker": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Application\\Customers\\Queries\\GetCustomerById\\GetCustomerByIdHandler.cs",
-              "RelativeDocumentMoniker": "MyApp.Application\\Customers\\Queries\\GetCustomerById\\GetCustomerByIdHandler.cs",
-              "ToolTip": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Application\\Customers\\Queries\\GetCustomerById\\GetCustomerByIdHandler.cs",
-              "RelativeToolTip": "MyApp.Application\\Customers\\Queries\\GetCustomerById\\GetCustomerByIdHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T23:56:21.387Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "GetCustomerByIdQuery.cs",
-              "DocumentMoniker": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Application\\Customers\\Queries\\GetCustomerById\\GetCustomerByIdQuery.cs",
-              "RelativeDocumentMoniker": "MyApp.Application\\Customers\\Queries\\GetCustomerById\\GetCustomerByIdQuery.cs",
-              "ToolTip": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Application\\Customers\\Queries\\GetCustomerById\\GetCustomerByIdQuery.cs",
-              "RelativeToolTip": "MyApp.Application\\Customers\\Queries\\GetCustomerById\\GetCustomerByIdQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T23:55:23.528Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "CreateCustomerCommandHandler.cs",
-              "DocumentMoniker": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Application\\Customers\\Commands\\CreateCustomer\\CreateCustomerCommandHandler.cs",
-              "RelativeDocumentMoniker": "MyApp.Application\\Customers\\Commands\\CreateCustomer\\CreateCustomerCommandHandler.cs",
-              "ToolTip": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Application\\Customers\\Commands\\CreateCustomer\\CreateCustomerCommandHandler.cs",
-              "RelativeToolTip": "MyApp.Application\\Customers\\Commands\\CreateCustomer\\CreateCustomerCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T23:53:28.468Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "CreateCustomerCommandValidator.cs",
-              "DocumentMoniker": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Application\\Customers\\Commands\\CreateCustomer\\CreateCustomerCommandValidator.cs",
-              "RelativeDocumentMoniker": "MyApp.Application\\Customers\\Commands\\CreateCustomer\\CreateCustomerCommandValidator.cs",
-              "ToolTip": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Application\\Customers\\Commands\\CreateCustomer\\CreateCustomerCommandValidator.cs",
-              "RelativeToolTip": "MyApp.Application\\Customers\\Commands\\CreateCustomer\\CreateCustomerCommandValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T23:52:26.146Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 4,
               "Title": "CreateCustomerCommand.cs",
               "DocumentMoniker": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Application\\Customers\\Commands\\CreateCustomer\\CreateCustomerCommand.cs",
               "RelativeDocumentMoniker": "MyApp.Application\\Customers\\Commands\\CreateCustomer\\CreateCustomerCommand.cs",
               "ToolTip": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Application\\Customers\\Commands\\CreateCustomer\\CreateCustomerCommand.cs",
               "RelativeToolTip": "MyApp.Application\\Customers\\Commands\\CreateCustomer\\CreateCustomerCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T23:50:29.162Z"
+              "WhenOpened": "2025-11-24T20:17:43.07Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ICustomerRepository.cs",
-              "DocumentMoniker": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Domain\\Repositories\\ICustomerRepository.cs",
-              "RelativeDocumentMoniker": "MyApp.Domain\\Repositories\\ICustomerRepository.cs",
-              "ToolTip": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Domain\\Repositories\\ICustomerRepository.cs",
-              "RelativeToolTip": "MyApp.Domain\\Repositories\\ICustomerRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAARAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "CreateCustomerCommandValidator.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Application\\Customers\\Commands\\CreateCustomer\\CreateCustomerCommandValidator.cs",
+              "RelativeDocumentMoniker": "MyApp.Application\\Customers\\Commands\\CreateCustomer\\CreateCustomerCommandValidator.cs",
+              "ToolTip": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Application\\Customers\\Commands\\CreateCustomer\\CreateCustomerCommandValidator.cs",
+              "RelativeToolTip": "MyApp.Application\\Customers\\Commands\\CreateCustomer\\CreateCustomerCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T23:47:12.395Z"
+              "WhenOpened": "2025-11-24T20:14:40.925Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Domain\\Entities\\Order.cs",
-              "RelativeDocumentMoniker": "MyApp.Domain\\Entities\\Order.cs",
-              "ToolTip": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Domain\\Entities\\Order.cs",
-              "RelativeToolTip": "MyApp.Domain\\Entities\\Order.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBsAAAABAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "ValidationBehavior.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Application\\Common\\Behaviors\\ValidationBehavior.cs",
+              "RelativeDocumentMoniker": "MyApp.Application\\Common\\Behaviors\\ValidationBehavior.cs",
+              "ToolTip": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Application\\Common\\Behaviors\\ValidationBehavior.cs",
+              "RelativeToolTip": "MyApp.Application\\Common\\Behaviors\\ValidationBehavior.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwA4AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T23:44:55.744Z"
+              "WhenOpened": "2025-11-24T20:10:40.177Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 7,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Domain\\Entities\\Customer.cs",
               "RelativeDocumentMoniker": "MyApp.Domain\\Entities\\Customer.cs",
               "ToolTip": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Domain\\Entities\\Customer.cs",
               "RelativeToolTip": "MyApp.Domain\\Entities\\Customer.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T23:44:31.653Z"
+              "WhenOpened": "2025-11-24T20:05:59.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateCustomerCommandHandler.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Application\\Customers\\Commands\\CreateCustomer\\CreateCustomerCommandHandler.cs",
+              "RelativeDocumentMoniker": "MyApp.Application\\Customers\\Commands\\CreateCustomer\\CreateCustomerCommandHandler.cs",
+              "ToolTip": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Application\\Customers\\Commands\\CreateCustomer\\CreateCustomerCommandHandler.cs",
+              "RelativeToolTip": "MyApp.Application\\Customers\\Commands\\CreateCustomer\\CreateCustomerCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T20:04:50.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Presentation\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "MyApp.Presentation\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Presentation\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "MyApp.Presentation\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwBAAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T19:41:56.984Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,0 +1,16 @@
+C:\Desarrollo\Cristian\MyApp\MyApp.Application\bin\Debug\net8.0\MyApp.Application.deps.json
+C:\Desarrollo\Cristian\MyApp\MyApp.Application\bin\Debug\net8.0\MyApp.Application.dll
+C:\Desarrollo\Cristian\MyApp\MyApp.Application\bin\Debug\net8.0\MyApp.Application.pdb
+C:\Desarrollo\Cristian\MyApp\MyApp.Application\bin\Debug\net8.0\MyApp.Domain.dll
+C:\Desarrollo\Cristian\MyApp\MyApp.Application\bin\Debug\net8.0\MyApp.Domain.pdb
+C:\Desarrollo\Cristian\MyApp\MyApp.Application\obj\Debug\net8.0\MyApp.Application.csproj.AssemblyReference.cache
+C:\Desarrollo\Cristian\MyApp\MyApp.Application\obj\Debug\net8.0\MyApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollo\Cristian\MyApp\MyApp.Application\obj\Debug\net8.0\MyApp.Application.AssemblyInfoInputs.cache
+C:\Desarrollo\Cristian\MyApp\MyApp.Application\obj\Debug\net8.0\MyApp.Application.AssemblyInfo.cs
+C:\Desarrollo\Cristian\MyApp\MyApp.Application\obj\Debug\net8.0\MyApp.Application.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Cristian\MyApp\MyApp.Application\obj\Debug\net8.0\MyApp.Application.sourcelink.json
+C:\Desarrollo\Cristian\MyApp\MyApp.Application\obj\Debug\net8.0\MyApp.Ap.B540CA8A.Up2Date
+C:\Desarrollo\Cristian\MyApp\MyApp.Application\obj\Debug\net8.0\MyApp.Application.dll
+C:\Desarrollo\Cristian\MyApp\MyApp.Application\obj\Debug\net8.0\refint\MyApp.Application.dll
+C:\Desarrollo\Cristian\MyApp\MyApp.Application\obj\Debug\net8.0\MyApp.Application.pdb
+C:\Desarrollo\Cristian\MyApp\MyApp.Application\obj\Debug\net8.0\ref\MyApp.Application.dll

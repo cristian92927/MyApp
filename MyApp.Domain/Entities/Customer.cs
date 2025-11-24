@@ -12,7 +12,7 @@ public class Customer
 
     public List<Order> Orders { get; private set; } = new();
 
-    protected Customer() { } // para EF
+    protected Customer() { }
 
     public Customer(string name, string email)
     {

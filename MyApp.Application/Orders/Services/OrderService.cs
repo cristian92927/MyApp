@@ -19,7 +19,6 @@ public class OrderService : IOrderService
 
     public async Task<Guid> CreateOrderAsync(Guid customerId, string details)
     {
-        // Validar existencia del cliente (opcional pero recomendable)
         var customer = await _customerRepository.GetByIdAsync(customerId);
         if (customer == null) throw new KeyNotFoundException("Customer not found");
 

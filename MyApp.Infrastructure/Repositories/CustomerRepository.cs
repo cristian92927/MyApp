@@ -18,7 +18,10 @@ public class CustomerRepository : ICustomerRepository
         => await _ctx.Customers.Include(c => c.Orders).AsNoTracking().ToListAsync();
 
     public async Task<Customer?> GetByIdAsync(Guid id)
-        => await _ctx.Customers.Include(c => c.Orders).FirstOrDefaultAsync(c => c.Id == id);
+    => await _ctx.Customers
+                 .Include(c => c.Orders)
+                 .AsNoTracking()
+                 .FirstOrDefaultAsync(c => c.Id == id);
 
     public async Task SaveAsync(Customer customer)
     {
