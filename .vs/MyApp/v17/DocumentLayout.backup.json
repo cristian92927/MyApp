@@ -158,8 +158,7 @@
               "RelativeToolTip": "MyApp.Infrastructure\\Repositories\\OrderRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T23:49:58.273Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T23:49:58.273Z"
             },
             {
               "$type": "Document",
@@ -171,8 +170,7 @@
               "RelativeToolTip": "MyApp.Domain\\Repositories\\IOrderRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T23:49:33.782Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T23:49:33.782Z"
             },
             {
               "$type": "Document",
@@ -184,8 +182,7 @@
               "RelativeToolTip": "MyApp.Application\\Orders\\Commands\\CreateOrder\\CreateOrderCommandHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T01:48:07.981Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T01:48:07.981Z"
             },
             {
               "$type": "Document",
@@ -197,8 +194,7 @@
               "RelativeToolTip": "MyApp.Application\\Orders\\Commands\\CreateOrder\\CreateOrderCommandValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T01:47:47.299Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T01:47:47.299Z"
             },
             {
               "$type": "Document",
@@ -210,8 +206,7 @@
               "RelativeToolTip": "MyApp.Application\\Orders\\Commands\\CreateOrder\\CreateOrderCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T01:47:18.536Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T01:47:18.536Z"
             },
             {
               "$type": "Document",
@@ -223,8 +218,7 @@
               "RelativeToolTip": "MyApp.Application\\Orders\\Services\\OrderService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T01:46:01.983Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T01:46:01.983Z"
             },
             {
               "$type": "Document",
@@ -236,8 +230,7 @@
               "RelativeToolTip": "MyApp.Application\\Orders\\Services\\IOrderService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T01:45:35.622Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T01:45:35.622Z"
             },
             {
               "$type": "Document",
@@ -249,8 +242,7 @@
               "RelativeToolTip": "MyApp.Presentation\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-22T01:35:59.876Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T01:35:59.876Z"
             },
             {
               "$type": "Document",
@@ -262,8 +254,7 @@
               "RelativeToolTip": "MyApp.Presentation\\MyApp.Presentation.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-11-22T01:32:38.6Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T01:32:38.6Z"
             },
             {
               "$type": "Document",
@@ -275,60 +266,55 @@
               "RelativeToolTip": "MyApp.Application\\Common\\Behaviors\\ValidationBehavior.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T01:32:13.665Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T01:32:13.665Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "MyApp.Application",
+              "Title": "MyApp.Application.csproj",
               "DocumentMoniker": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Application\\MyApp.Application.csproj",
               "RelativeDocumentMoniker": "MyApp.Application\\MyApp.Application.csproj",
               "ToolTip": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Application\\MyApp.Application.csproj",
               "RelativeToolTip": "MyApp.Application\\MyApp.Application.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-22T01:23:43.822Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T01:23:43.822Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "MyApp.Domain",
+              "Title": "MyApp.Domain.csproj",
               "DocumentMoniker": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Domain\\MyApp.Domain.csproj",
               "RelativeDocumentMoniker": "MyApp.Domain\\MyApp.Domain.csproj",
               "ToolTip": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Domain\\MyApp.Domain.csproj",
               "RelativeToolTip": "MyApp.Domain\\MyApp.Domain.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-22T01:18:31.246Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T01:18:31.246Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "MyApp.Presentation",
+              "Title": "MyApp.Presentation.csproj",
               "DocumentMoniker": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Presentation\\MyApp.Presentation.csproj",
               "RelativeDocumentMoniker": "MyApp.Presentation\\MyApp.Presentation.csproj",
               "ToolTip": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Presentation\\MyApp.Presentation.csproj",
               "RelativeToolTip": "MyApp.Presentation\\MyApp.Presentation.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-22T01:18:06.599Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T01:18:06.599Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
-              "Title": "MyApp.Infrastructure",
+              "Title": "MyApp.Infrastructure.csproj",
               "DocumentMoniker": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Infrastructure\\MyApp.Infrastructure.csproj",
               "RelativeDocumentMoniker": "MyApp.Infrastructure\\MyApp.Infrastructure.csproj",
               "ToolTip": "C:\\Desarrollo\\Cristian\\MyApp\\MyApp.Infrastructure\\MyApp.Infrastructure.csproj",
               "RelativeToolTip": "MyApp.Infrastructure\\MyApp.Infrastructure.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-22T00:23:18.431Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T00:23:18.431Z"
             },
             {
               "$type": "Document",
@@ -340,8 +326,7 @@
               "RelativeToolTip": "MyApp.Presentation\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-22T00:05:14.737Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T00:05:14.737Z"
             },
             {
               "$type": "Document",
@@ -366,8 +351,7 @@
               "RelativeToolTip": "MyApp.Presentation\\Controllers\\CustomersController.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T00:04:47.463Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T00:04:47.463Z"
             },
             {
               "$type": "Document",
@@ -379,8 +363,7 @@
               "RelativeToolTip": "MyApp.Presentation\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T00:03:40.59Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T00:03:40.59Z"
             },
             {
               "$type": "Document",
@@ -392,8 +375,7 @@
               "RelativeToolTip": "MyApp.Infrastructure\\Repositories\\CustomerRepository.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAkwBwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T00:02:52.566Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T00:02:52.566Z"
             },
             {
               "$type": "Document",
@@ -405,8 +387,7 @@
               "RelativeToolTip": "MyApp.Infrastructure\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAQwB4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T00:00:57.382Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T00:00:57.382Z"
             },
             {
               "$type": "Document",
@@ -418,8 +399,7 @@
               "RelativeToolTip": "MyApp.Application\\Common\\Mappings\\MappingProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T00:00:04.324Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T00:00:04.324Z"
             },
             {
               "$type": "Document",
@@ -431,8 +411,7 @@
               "RelativeToolTip": "MyApp.Application\\Customers\\Queries\\Dto\\CustomerDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T23:58:14.786Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-21T23:58:14.786Z"
             },
             {
               "$type": "Document",
@@ -444,8 +423,7 @@
               "RelativeToolTip": "MyApp.Application\\Customers\\Queries\\Dto\\OrderDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T23:57:58.102Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-21T23:57:58.102Z"
             },
             {
               "$type": "Document",
@@ -457,8 +435,7 @@
               "RelativeToolTip": "MyApp.Application\\Customers\\Queries\\GetCustomerById\\GetCustomerByIdHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T23:56:21.387Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-21T23:56:21.387Z"
             },
             {
               "$type": "Document",
@@ -470,8 +447,7 @@
               "RelativeToolTip": "MyApp.Application\\Customers\\Queries\\GetCustomerById\\GetCustomerByIdQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T23:55:23.528Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-21T23:55:23.528Z"
             },
             {
               "$type": "Document",
@@ -483,8 +459,7 @@
               "RelativeToolTip": "MyApp.Application\\Customers\\Commands\\CreateCustomer\\CreateCustomerCommandHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T23:53:28.468Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-21T23:53:28.468Z"
             },
             {
               "$type": "Document",
@@ -496,8 +471,7 @@
               "RelativeToolTip": "MyApp.Application\\Customers\\Commands\\CreateCustomer\\CreateCustomerCommandValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T23:52:26.146Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-21T23:52:26.146Z"
             },
             {
               "$type": "Document",
@@ -509,8 +483,7 @@
               "RelativeToolTip": "MyApp.Application\\Customers\\Commands\\CreateCustomer\\CreateCustomerCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T23:50:29.162Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-21T23:50:29.162Z"
             },
             {
               "$type": "Document",
@@ -522,8 +495,7 @@
               "RelativeToolTip": "MyApp.Domain\\Repositories\\ICustomerRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T23:47:12.395Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-21T23:47:12.395Z"
             },
             {
               "$type": "Document",
@@ -535,8 +507,7 @@
               "RelativeToolTip": "MyApp.Domain\\Entities\\Order.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAQwBsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T23:44:55.744Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-21T23:44:55.744Z"
             },
             {
               "$type": "Document",
@@ -548,8 +519,7 @@
               "RelativeToolTip": "MyApp.Domain\\Entities\\Customer.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T23:44:31.653Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-21T23:44:31.653Z"
             }
           ]
         }
